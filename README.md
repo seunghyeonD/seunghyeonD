@@ -5,9 +5,6 @@
 Enterprise SaaS, 금융권 WebView, 크로스플랫폼 모바일 앱 등 다양한 환경에서
 프론트엔드 시스템을 설계하고 구축합니다.
 
-[![Notion Portfolio](https://img.shields.io/badge/Portfolio-Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://notion.so/2ff7f2e484b981269b324cc38510f1995)
-[![Pre-Career](https://img.shields.io/badge/Pre--Career-Dong--Seung--hyeon-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dong-Seung-hyeon)
-
 ---
 
 ## 📊 Overview
