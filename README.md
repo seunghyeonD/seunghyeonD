@@ -18,12 +18,12 @@ Enterprise SaaS, 금융권 WebView, 크로스플랫폼 모바일 앱 등 다양�
 
 | 구분 | 프로젝트 | 역할 |
 |:---:|---|---|
-| 실무 | Tansolution (Enterprise SaaS) | Frontend Developer |
-| 실무 | iM뱅크 ESG (금융 WebView) | Frontend Developer |
-| 실무 | Tanso (PWA, 607 commits) | Frontend Developer |
-| 실무 | LandingPage-en (Next.js SSG) | Frontend Developer |
-| 실무 | RNTanso (React Native) | Mobile Developer |
-| 실무 | Chatbot-test (AI RAG) | Full-stack Developer |
+| 실무 | 탄소 배출 관리 SaaS (Enterprise) | Frontend Developer |
+| 실무 | 금융권 ESG 리포트 시스템 (WebView) | Frontend Developer |
+| 실무 | 탄소 발자국 추적 플랫폼 (PWA) | Frontend Developer |
+| 실무 | 글로벌 마케팅 랜딩 페이지 (Next.js) | Frontend Developer |
+| 실무 | 크로스플랫폼 모바일 앱 (React Native) | Mobile Developer |
+| 실무 | AI RAG 챗봇 프로토타입 | Full-stack Developer |
 | Pre-Career | Face-Change (AI 스타일 변환) | Frontend Lead |
 | Pre-Career | AI 이미지 편집 플랫폼 | Frontend Developer |
 | Pre-Career | 내손을잡아 (Android) | Android Developer |
@@ -64,12 +64,12 @@ Enterprise SaaS, 금융권 WebView, 크로스플랫폼 모바일 앱 등 다양�
 
 | 성과 | 수치 |
 |---|---|
-| 테이블 렌더링 성능 개선 | **3초 → 0.5초** (AG Grid 가상 스크롤링) |
-| Apollo Cache 버그 감소 | **90% ↓** (Type Policy 재설계) |
-| WebView 브릿지 통신 성공률 | **85% → 99.5%** (큐잉 + 재시도) |
-| PWA 오프라인 데이터 유실률 | **15% → 0%** (Service Worker + IndexedDB) |
-| PDF 파일 크기 경량화 | **70% ↓** (Chunked 렌더링 + 압축) |
-| 탄소 계산 버그 | **월 3-4건 → 0건** (로직 중앙화 + 단위 테스트) |
+| 테이블 렌더링 성능 개선 | **83% 개선** (AG Grid 가상 스크롤링 + 메모이제이션) |
+| Apollo Client 캐시 안정화 | **버그 90% 감소** (Type Policy 재설계) |
+| WebView 브릿지 통신 안정화 | **99.5% 성공률** 달성 (플랫폼 추상화 + 큐잉) |
+| PWA 오프라인 데이터 동기화 | **유실률 0%** 달성 (Service Worker + IndexedDB) |
+| PDF 리포트 경량화 | **70% 용량 절감** (Chunked 렌더링 + 압축) |
+| 데이터 계산 정확도 | **월간 버그 0건** 달성 (로직 중앙화 + 단위 테스트) |
 | 다국어 지원 | **한/영/일** 3개국어 (i18next Namespace) |
 
 ---
