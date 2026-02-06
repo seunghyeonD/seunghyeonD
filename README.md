@@ -76,7 +76,7 @@ Enterprise SaaS, 금융권 WebView, 크로스플랫폼 모바일 앱 등 다양�
 
 ## 🏢 Experience
 
-**Frontend Developer @ (주)리빗 - TANSO 사업부**
+**Frontend Developer @ (주)리빗**
 `2023.04 - 재직중`
 
 탄소 배출 관리 SaaS 플랫폼의 프론트엔드 전반을 담당.
