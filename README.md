@@ -1,4 +1,4 @@
-# 동승현 (Daniel) 👋
+# Daniel 👋
 
 **Frontend Developer** | React 생태계 전문 | 3년차
 
@@ -18,7 +18,7 @@ Enterprise SaaS, 금융권 WebView, 크로스플랫폼 모바일 앱 등 다양�
 
 | 구분 | 프로젝트 | 역할 |
 |:---:|---|---|
-| 실무 | Tansolution (Enterprise SaaS) | Lead Frontend Developer |
+| 실무 | Tansolution (Enterprise SaaS) | Frontend Developer |
 | 실무 | iM뱅크 ESG (금융 WebView) | Frontend Developer |
 | 실무 | Tanso (PWA, 607 commits) | Frontend Developer |
 | 실무 | LandingPage-en (Next.js SSG) | Frontend Developer |
@@ -74,29 +74,14 @@ Enterprise SaaS, 금융권 WebView, 크로스플랫폼 모바일 앱 등 다양�
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=seunghyeonD&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=seunghyeonD&hide_border=true&theme=default" height="165" />
-
-</div>
-
----
-
 ## 🏢 Experience
 
 **Frontend Developer @ (주)리빗 - TANSO 사업부**
-`2023.08 - 2026.01` (2년 6개월)
+`2023.04 - 재직중`
 
 탄소 배출 관리 SaaS 플랫폼의 프론트엔드 전반을 담당.
-입사 초기부터 아키텍처 설계에 참여하여 Lead Frontend Developer로 성장.
+입사 초기부터 아키텍처 설계에 참여하여 점진적으로 성장.
 
 ---
-
-## 📬 Contact
-
-[![Email](https://img.shields.io/badge/shdong@tanso.life-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shdong@tanso.life)
 
 > *실무 프로젝트는 Private Repository로 운영되며, 상세 내용은 [Notion 포트폴리오](https://notion.so/2ff7f2e484b981269b324cc38510f1995)에서 확인하실 수 있습니다.*
