@@ -84,4 +84,6 @@ Enterprise SaaS, 금융권 WebView, 크로스플랫폼 모바일 앱 등 다양�
 
 ---
 
-> *실무 프로젝트는 Private Repository로 운영되며, 상세 내용은 [Notion 포트폴리오](https://notion.so/2ff7f2e484b981269b324cc38510f1995)에서 확인하실 수 있습니다.*
+## 📬 Contact
+
+[![Email](https://img.shields.io/badge/dww7541@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dww7541@gmail.com)
