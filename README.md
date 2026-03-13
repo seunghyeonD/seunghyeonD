@@ -121,7 +121,6 @@ const daniel = {
 |---|---|---|---|
 | **☕ 커피대장** - 커피 기록 앱 | Full-stack Dev | Next.js, Supabase, Firebase | [![Live](https://img.shields.io/badge/🔗_coffeeledger.co.kr-1a3a4a?style=flat-square)](https://coffeeledger.co.kr/) [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/seunghyeonD/coffee_ledger) |
 | **🎰 로또 번호 생성 시스템** | Full-stack Dev | Next.js, NestJS, PostgreSQL | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/seunghyeonD/lotto-project) |
-| **💬 AI 코디봇** - LLM 챗봇 | Full-stack Dev | TypeScript, LLM | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/seunghyeonD/ai-chatbot) |
 
 </div>
 
