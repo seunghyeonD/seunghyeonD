@@ -1,16 +1,17 @@
 # Daniel 👋
 
-**Frontend Developer** | React 생태계 전문 | 3년차
+**Frontend Developer** | React 생태계 전문 | 4년차
 
 Enterprise SaaS, 금융권 WebView, 크로스플랫폼 모바일 앱 등 다양한 환경에서
 프론트엔드 시스템을 설계하고 구축합니다.
+최근에는 AI/LLM 기반 서비스 개발과 풀스택 영역으로 확장하고 있습니다.
 
 ---
 
 ## 📊 Overview
 
 ```
-9개 프로젝트 · 700+ 커밋 · 1,839 contributions (last year)
+13개 프로젝트 · 700+ 커밋 · 1,839 contributions (last year)
 ```
 
 | 구분 | 프로젝트 | 역할 |
@@ -21,6 +22,10 @@ Enterprise SaaS, 금융권 WebView, 크로스플랫폼 모바일 앱 등 다양�
 | 실무 | 글로벌 마케팅 랜딩 페이지 (Next.js) | Frontend Developer |
 | 실무 | 크로스플랫폼 모바일 앱 (React Native) | Mobile Developer |
 | 실무 | AI RAG 챗봇 프로토타입 | Full-stack Developer |
+| Side | 로또 번호 생성 시스템 (Next.js + NestJS) | Full-stack Developer |
+| Side | 커피대장 - 커피 기록 앱 (Next.js) | Full-stack Developer |
+| Side | AI 코디봇 - LLM 챗봇 (TypeScript) | Full-stack Developer |
+| Study | LangChain 학습 (Python, RAG, SQL Agent) | - |
 | Pre-Career | Face-Change (AI 스타일 변환) | Frontend Lead |
 | Pre-Career | AI 이미지 편집 플랫폼 | Frontend Developer |
 | Pre-Career | 내손을잡아 (Android) | Android Developer |
@@ -33,8 +38,14 @@ Enterprise SaaS, 금융권 WebView, 크로스플랫폼 모바일 앱 등 다양�
 
 ![React](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js_13-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+**Backend**
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
 **State & Data**
 
@@ -54,6 +65,7 @@ Enterprise SaaS, 금융권 WebView, 크로스플랫폼 모바일 앱 등 다양�
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS_S3-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
@@ -78,9 +90,11 @@ Enterprise SaaS, 금융권 WebView, 크로스플랫폼 모바일 앱 등 다양�
 
 탄소 배출 관리 SaaS 플랫폼의 프론트엔드 전반을 담당.
 입사 초기부터 아키텍처 설계에 참여하여 점진적으로 성장.
+최근에는 AI/LLM 연동 및 백엔드 영역까지 기술 스택을 확장 중.
 
 ---
 
 ## 📬 Contact
 
 [![Email](https://img.shields.io/badge/dww7541@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dww7541@gmail.com)
+[![GitHub](https://img.shields.io/badge/seunghyeonD-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/seunghyeonD)
