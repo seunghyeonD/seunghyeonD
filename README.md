@@ -104,18 +104,24 @@ const daniel = {
 
 <div align="center">
 
-| 구분 | 프로젝트 | 역할 | 핵심 기술 |
-|:---:|---|---|---|
-| 🏢 실무 | **탄소 배출 관리 SaaS** (Enterprise) | Frontend Dev | React, TS, GraphQL, Apollo, MUI |
-| 🏢 실무 | **금융권 ESG 리포트 시스템** (WebView) | Frontend Dev | React, TS, D3.js, GraphQL |
-| 🏢 실무 | **탄소 발자국 추적 플랫폼** (PWA) | Frontend Dev | React, TS, PWA, Firebase |
-| 🏢 실무 | **글로벌 마케팅 랜딩 페이지** (Next.js) | Frontend Dev | Next.js, i18next (한/영/일) |
-| 📱 실무 | **크로스플랫폼 모바일 앱** (RN) | Mobile Dev | React Native, TS, WebView Bridge |
-| 🤖 실무 | **AI RAG 챗봇 프로토타입** | Full-stack Dev | React, Node.js, AI/RAG |
-| 🎯 Side | **로또 번호 생성 시스템** | Full-stack Dev | Next.js, NestJS, PostgreSQL |
-| ☕ Side | **커피대장** - 커피 기록 앱 | Full-stack Dev | Next.js, Full-stack |
-| 💬 Side | **AI 코디봇** - LLM 챗봇 | Full-stack Dev | TypeScript, LLM |
-| 📚 Study | **LangChain 학습** | - | Python, RAG, SQL Agent |
+### 🏢 실무 프로젝트
+
+| 프로젝트 | 역할 | 핵심 기술 |
+|---|---|---|
+| **탄소 배출 관리 SaaS** (Enterprise) | Frontend Dev | React, TS, GraphQL, Apollo, MUI |
+| **금융권 ESG 리포트 시스템** (WebView) | Frontend Dev | React, TS, D3.js, GraphQL |
+| **탄소 발자국 추적 플랫폼** (PWA) | Frontend Dev | React, TS, PWA, Firebase |
+| **글로벌 마케팅 랜딩 페이지** (Next.js) | Frontend Dev | Next.js, i18next (한/영/일) |
+| **크로스플랫폼 모바일 앱** (RN) | Mobile Dev | React Native, TS, WebView Bridge |
+| **AI RAG 챗봇 프로토타입** | Full-stack Dev | React, Node.js, AI/RAG |
+
+### 🎯 사이드 프로젝트
+
+| 프로젝트 | 역할 | 핵심 기술 | 링크 |
+|---|---|---|---|
+| **☕ 커피대장** - 커피 기록 앱 | Full-stack Dev | Next.js, Supabase, Firebase | [![Live](https://img.shields.io/badge/🔗_coffeeledger.co.kr-1a3a4a?style=flat-square)](https://coffeeledger.co.kr/) [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/seunghyeonD/coffee_ledger) |
+| **🎰 로또 번호 생성 시스템** | Full-stack Dev | Next.js, NestJS, PostgreSQL | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/seunghyeonD/lotto-project) |
+| **💬 AI 코디봇** - LLM 챗봇 | Full-stack Dev | TypeScript, LLM | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/seunghyeonD/ai-chatbot) |
 
 </div>
 
