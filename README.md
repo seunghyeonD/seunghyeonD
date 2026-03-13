@@ -1,100 +1,158 @@
-# Daniel 👋
+<div align="center">
 
-**Frontend Developer** | React 생태계 전문 | 4년차
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a4a,100:2a5a6a&height=220&section=header&text=Daniel&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer&descSize=20&descAlignY=55&descColor=ffffff" width="100%" />
 
-Enterprise SaaS, 금융권 WebView, 크로스플랫폼 모바일 앱 등 다양한 환경에서
-프론트엔드 시스템을 설계하고 구축합니다.
-최근에는 AI/LLM 기반 서비스 개발과 풀스택 영역으로 확장하고 있습니다.
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1A3A4A&center=true&vCenter=true&random=false&width=600&lines=React+%7C+TypeScript+%7C+Next.js;Enterprise+SaaS+%2F+WebView+%2F+PWA+%2F+Mobile;AI%2FLLM+%EA%B8%B0%EB%B0%98+%EC%84%9C%EB%B9%84%EC%8A%A4+%EA%B0%9C%EB%B0%9C+%ED%99%95%EC%9E%A5+%EC%A4%91)](https://git.io/typing-svg)
 
----
+</div>
 
-## 📊 Overview
+<br/>
 
+## 🧑‍💻 About Me
+
+> Enterprise SaaS, 금융권 WebView, 크로스플랫폼 모바일 앱 등 다양한 환경에서  
+> 프론트엔드 시스템을 설계하고 구축합니다.  
+> 최근에는 AI/LLM 기반 서비스 개발과 풀스택 영역으로 확장하고 있습니다.
+
+```javascript
+const daniel = {
+    role: "Frontend Developer",
+    company: "(주)리빗",
+    experience: "4년차",
+    focus: ["Enterprise SaaS", "Cross-platform", "AI/LLM Integration"],
+    currentlyLearning: ["NestJS", "LangChain", "Full-stack Architecture"],
+    funFact: "커피 한 잔과 함께하는 코딩이 최고의 생산성을 만듭니다 ☕"
+};
 ```
-13개 프로젝트 · 700+ 커밋 · 1,839 contributions (last year)
-```
 
-| 구분 | 프로젝트 | 역할 |
-|:---:|---|---|
-| 실무 | 탄소 배출 관리 SaaS (Enterprise) | Frontend Developer |
-| 실무 | 금융권 ESG 리포트 시스템 (WebView) | Frontend Developer |
-| 실무 | 탄소 발자국 추적 플랫폼 (PWA) | Frontend Developer |
-| 실무 | 글로벌 마케팅 랜딩 페이지 (Next.js) | Frontend Developer |
-| 실무 | 크로스플랫폼 모바일 앱 (React Native) | Mobile Developer |
-| 실무 | AI RAG 챗봇 프로토타입 | Full-stack Developer |
-| Side | 로또 번호 생성 시스템 (Next.js + NestJS) | Full-stack Developer |
-| Side | 커피대장 - 커피 기록 앱 (Next.js) | Full-stack Developer |
-| Side | AI 코디봇 - LLM 챗봇 (TypeScript) | Full-stack Developer |
-| Study | LangChain 학습 (Python, RAG, SQL Agent) | - |
-| Pre-Career | Face-Change (AI 스타일 변환) | Frontend Lead |
-| Pre-Career | AI 이미지 편집 플랫폼 | Frontend Developer |
-| Pre-Career | 내손을잡아 (Android) | Android Developer |
+<br/>
 
----
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=seunghyeonD&show_icons=true&theme=default&bg_color=fafaf8&title_color=1a3a4a&icon_color=2a5a6a&text_color=2d2d2d&border_color=e2e2de&hide_border=false&count_private=true" />
+&nbsp;&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seunghyeonD&layout=compact&theme=default&bg_color=fafaf8&title_color=1a3a4a&text_color=2d2d2d&border_color=e2e2de&hide_border=false&langs_count=8" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=seunghyeonD&background=fafaf8&ring=1a3a4a&fire=e8734a&currStreakLabel=1a3a4a&sideLabels=1a3a4a&currStreakNum=2d2d2d&sideNums=2d2d2d&dates=888888&border=e2e2de" />
+
+</div>
+
+<br/>
 
 ## 🛠 Tech Stack
 
-**Frontend**
+<div align="center">
 
-![React](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+### Frontend
+![React](https://img.shields.io/badge/React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-**Backend**
+### Backend
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+### State & Data
+![Apollo](https://img.shields.io/badge/Apollo_Client-311C87?style=for-the-badge&logo=apollographql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
-**State & Data**
+### UI & Visualization
+![MUI](https://img.shields.io/badge/MUI_v5-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-![Apollo](https://img.shields.io/badge/Apollo_Client-311C87?style=flat-square&logo=apollographql&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+### Infra & Tools
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_S3-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**UI & Visualization**
+</div>
 
-![MUI](https://img.shields.io/badge/MUI_v5-007FFF?style=flat-square&logo=mui&logoColor=white)
-![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Infra & Tools**
-
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_S3-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
----
-
-## 🏆 Key Achievements
-
-| 성과 | 수치 |
-|---|---|
-| 테이블 렌더링 성능 개선 | **83% 개선** (AG Grid 가상 스크롤링 + 메모이제이션) |
-| Apollo Client 캐시 안정화 | **버그 90% 감소** (Type Policy 재설계) |
-| WebView 브릿지 통신 안정화 | **99.5% 성공률** 달성 (플랫폼 추상화 + 큐잉) |
-| PWA 오프라인 데이터 동기화 | **유실률 0%** 달성 (Service Worker + IndexedDB) |
-| PDF 리포트 경량화 | **70% 용량 절감** (Chunked 렌더링 + 압축) |
-| 데이터 계산 정확도 | **월간 버그 0건** 달성 (로직 중앙화 + 단위 테스트) |
-| 다국어 지원 | **한/영/일** 3개국어 (i18next Namespace) |
-
----
+<br/>
 
 ## 🏢 Experience
 
-**Frontend Developer @ (주)리빗**
-`2023.04 - 재직중`
+<table>
+<tr>
+<td width="120" align="center"><b>기간</b></td>
+<td><b>2023.04 - 재직중</b></td>
+</tr>
+<tr>
+<td align="center"><b>회사</b></td>
+<td><b>Frontend Developer @ (주)리빗</b></td>
+</tr>
+<tr>
+<td align="center"><b>역할</b></td>
+<td>탄소 배출 관리 SaaS 플랫폼의 프론트엔드 전반을 담당.<br/>입사 초기부터 아키텍처 설계에 참여하여 점진적으로 성장.<br/>최근에는 AI/LLM 연동 및 백엔드 영역까지 기술 스택을 확장 중.</td>
+</tr>
+</table>
 
-탄소 배출 관리 SaaS 플랫폼의 프론트엔드 전반을 담당.
-입사 초기부터 아키텍처 설계에 참여하여 점진적으로 성장.
-최근에는 AI/LLM 연동 및 백엔드 영역까지 기술 스택을 확장 중.
+<br/>
 
----
+## 📁 Projects
+
+<div align="center">
+
+| 구분 | 프로젝트 | 역할 | 핵심 기술 |
+|:---:|---|---|---|
+| 🏢 실무 | **탄소 배출 관리 SaaS** (Enterprise) | Frontend Dev | React, TS, GraphQL, Apollo, MUI |
+| 🏢 실무 | **금융권 ESG 리포트 시스템** (WebView) | Frontend Dev | React, TS, D3.js, GraphQL |
+| 🏢 실무 | **탄소 발자국 추적 플랫폼** (PWA) | Frontend Dev | React, TS, PWA, Firebase |
+| 🏢 실무 | **글로벌 마케팅 랜딩 페이지** (Next.js) | Frontend Dev | Next.js, i18next (한/영/일) |
+| 📱 실무 | **크로스플랫폼 모바일 앱** (RN) | Mobile Dev | React Native, TS, WebView Bridge |
+| 🤖 실무 | **AI RAG 챗봇 프로토타입** | Full-stack Dev | React, Node.js, AI/RAG |
+| 🎯 Side | **로또 번호 생성 시스템** | Full-stack Dev | Next.js, NestJS, PostgreSQL |
+| ☕ Side | **커피대장** - 커피 기록 앱 | Full-stack Dev | Next.js, Full-stack |
+| 💬 Side | **AI 코디봇** - LLM 챗봇 | Full-stack Dev | TypeScript, LLM |
+| 📚 Study | **LangChain 학습** | - | Python, RAG, SQL Agent |
+
+</div>
+
+<br/>
+
+## 🏆 Key Achievements
+
+<div align="center">
+
+|  | 성과 | 수치 | 방법 |
+|:---:|---|:---:|---|
+| ⚡ | 테이블 렌더링 성능 개선 | **83%↑** | AG Grid 가상 스크롤링 + 메모이제이션 |
+| 🐛 | Apollo Client 캐시 안정화 | **버그 90%↓** | Type Policy 재설계 |
+| 🔗 | WebView 브릿지 통신 안정화 | **99.5%** | 플랫폼 추상화 + 큐잉 시스템 |
+| 💾 | PWA 오프라인 데이터 동기화 | **유실률 0%** | Service Worker + IndexedDB |
+| 📄 | PDF 리포트 경량화 | **70%↓** | Chunked 렌더링 + 압축 |
+| ✅ | 데이터 계산 정확도 | **월간 버그 0건** | 로직 중앙화 + 단위 테스트 |
+| 🌍 | 다국어 지원 | **한/영/일** | i18next Namespace 설계 |
+
+</div>
+
+<br/>
 
 ## 📬 Contact
 
-[![Email](https://img.shields.io/badge/dww7541@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dww7541@gmail.com)
-[![GitHub](https://img.shields.io/badge/seunghyeonD-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/seunghyeonD)
+<div align="center">
+
+[![Email](https://img.shields.io/badge/dww7541@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dww7541@gmail.com)
+[![GitHub](https://img.shields.io/badge/seunghyeonD-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seunghyeonD)
+
+</div>
+
+<br/>
+
+<!-- Footer -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a4a,100:2a5a6a&height=120&section=footer" width="100%" />
+
+</div>
