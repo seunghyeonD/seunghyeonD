@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a4a,100:2a5a6a&height=220&section=header&text=Daniel&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer&descSize=20&descAlignY=55&descColor=ffffff" width="100%" />
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1A3A4A&center=true&vCenter=true&random=false&width=600&lines=React+%7C+TypeScript+%7C+Next.js;Enterprise+SaaS+%2F+WebView+%2F+PWA+%2F+Mobile;AI%2FLLM+%EA%B8%B0%EB%B0%98+%EC%84%9C%EB%B9%84%EC%8A%A4+%EA%B0%9C%EB%B0%9C+%ED%99%95%EC%9E%A5+%EC%A4%91)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1A3A4A&center=true&vCenter=true&random=false&width=600&lines=React+%7C+TypeScript+%7C+Next.js+%7C+Vite;Enterprise+SaaS+%2F+WebView+%2F+PWA+%2F+Mobile;AI%2FLLM+%EA%B8%B0%EB%B0%98+%EC%84%9C%EB%B9%84%EC%8A%A4+%EA%B0%9C%EB%B0%9C+%ED%99%95%EC%9E%A5+%EC%A4%91)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,6 +22,7 @@ const daniel = {
     company: "(주)리빗",
     experience: "4년차",
     focus: ["Enterprise SaaS", "Cross-platform", "AI/LLM Integration"],
+    recentWork: ["Webpack→Vite 마이그레이션", "MUI v5→v7 업그레이드", "moment.js→dayjs 경량화"],
     currentlyLearning: ["NestJS", "LangChain", "Full-stack Architecture"],
     funFact: "커피 한 잔과 함께하는 코딩이 최고의 생산성을 만듭니다 ☕"
 };
@@ -54,6 +55,7 @@ const daniel = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### Backend
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -66,7 +68,7 @@ const daniel = {
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 ### UI & Visualization
-![MUI](https://img.shields.io/badge/MUI_v5-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI_v7-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
@@ -76,6 +78,7 @@ const daniel = {
 ![AWS](https://img.shields.io/badge/AWS_S3-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 </div>
 
@@ -94,7 +97,7 @@ const daniel = {
 </tr>
 <tr>
 <td align="center"><b>역할</b></td>
-<td>탄소 배출 관리 SaaS 플랫폼의 프론트엔드 전반을 담당.<br/>입사 초기부터 아키텍처 설계에 참여하여 점진적으로 성장.<br/>최근에는 AI/LLM 연동 및 백엔드 영역까지 기술 스택을 확장 중.</td>
+<td>탄소 배출 관리 SaaS 플랫폼의 프론트엔드 전반을 담당.<br/>입사 초기부터 아키텍처 설계에 참여하여 점진적으로 성장.<br/>최근에는 번들러 교체(Webpack→Vite), MUI v5→v7 업그레이드, 날짜 라이브러리 경량화(moment.js→dayjs) 등 대규모 프론트엔드 업그레이드를 주도.<br/>AI/LLM 연동 및 백엔드 영역까지 기술 스택을 확장 중.</td>
 </tr>
 </table>
 
@@ -108,7 +111,7 @@ const daniel = {
 
 | 프로젝트 | 역할 | 핵심 기술 |
 |---|---|---|
-| **탄소 배출 관리 SaaS** (Enterprise) | Frontend Dev | React, TS, GraphQL, Apollo, MUI |
+| **탄소 배출 관리 SaaS** (Enterprise) | Lead Frontend Dev | React, TS, Vite, MUI v7, GraphQL, Apollo |
 | **금융권 ESG 리포트 시스템** (WebView) | Frontend Dev | React, TS, D3.js, GraphQL |
 | **탄소 발자국 추적 플랫폼** (PWA) | Frontend Dev | React, TS, PWA, Firebase |
 | **글로벌 마케팅 랜딩 페이지** (Next.js) | Frontend Dev | Next.js, i18next (한/영/일) |
@@ -139,6 +142,9 @@ const daniel = {
 | 📄 | PDF 리포트 경량화 | **70%↓** | Chunked 렌더링 + 압축 |
 | ✅ | 데이터 계산 정확도 | **월간 버그 0건** | 로직 중앙화 + 단위 테스트 |
 | 🌍 | 다국어 지원 | **한/영/일** | i18next Namespace 설계 |
+| 🚀 | 번들러 마이그레이션 | **Webpack→Vite** | 빌드/HMR 성능 대폭 개선 |
+| 🎨 | UI 프레임워크 업그레이드 | **MUI v5→v7** | Grid API, slotProps, 테마 재설계 |
+| 📦 | 날짜 라이브러리 경량화 | **moment→dayjs** | 번들 사이즈 감소 |
 
 </div>
 
