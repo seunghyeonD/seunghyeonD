@@ -22,8 +22,12 @@ const daniel = {
     company: "(주)리빗",
     experience: "4년차",
     focus: ["Enterprise SaaS", "Cross-platform", "AI/LLM Integration"],
-    recentWork: ["Webpack→Vite 마이그레이션", "MUI v5→v7 업그레이드", "moment.js→dayjs 경량화"],
-    currentlyLearning: ["NestJS", "LangChain", "Full-stack Architecture"],
+    recentWork: [
+        "Vitest 테스트 환경 구축 (30+ 유틸 단위 테스트)",
+        "AI 보고서 생성 파이프라인 (vLLM/Gemma 4 + Ollama Cloud)",
+        "Redis/BullMQ 리포트 큐 + SSE 실시간 글로벌 알림"
+    ],
+    currentlyLearning: ["NestJS", "LangChain", "LLM Tool Calling", "BullMQ"],
     funFact: "커피 한 잔과 함께하는 코딩이 최고의 생산성을 만듭니다 ☕"
 };
 ```
@@ -56,16 +60,20 @@ const daniel = {
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 
-### Backend
+### Backend & AI
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM_/_Gemma_4-FF6F61?style=for-the-badge&logo=google&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama_Cloud-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 ### State & Data
 ![Apollo](https://img.shields.io/badge/Apollo_Client-311C87?style=for-the-badge&logo=apollographql&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### UI & Visualization
 ![MUI](https://img.shields.io/badge/MUI_v7-007FFF?style=for-the-badge&logo=mui&logoColor=white)
@@ -79,6 +87,7 @@ const daniel = {
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 </div>
 
@@ -97,7 +106,7 @@ const daniel = {
 </tr>
 <tr>
 <td align="center"><b>역할</b></td>
-<td>탄소 배출 관리 SaaS 플랫폼의 프론트엔드 전반을 담당.<br/>입사 초기부터 아키텍처 설계에 참여하여 점진적으로 성장.<br/>최근에는 번들러 교체(Webpack→Vite), MUI v5→v7 업그레이드, 날짜 라이브러리 경량화(moment.js→dayjs) 등 대규모 프론트엔드 업그레이드를 주도.<br/>AI/LLM 연동 및 백엔드 영역까지 기술 스택을 확장 중.</td>
+<td>탄소 배출 관리 SaaS 플랫폼의 프론트엔드 전반을 담당.<br/>입사 초기부터 아키텍처 설계에 참여하여 점진적으로 성장.<br/>번들러 교체(Webpack→Vite), MUI v5→v7 업그레이드, 날짜 라이브러리 경량화(moment.js→dayjs) 등 대규모 프론트엔드 업그레이드를 주도.<br/>최근에는 <b>Vitest 기반 FE 테스트 환경 구축</b>과 <b>vLLM/Gemma 4 기반 AI 보고서 생성 파이프라인</b>, <b>Redis/BullMQ 비동기 리포트 큐 + SSE 실시간 알림</b> 시스템을 구축하며 백엔드/AI 영역까지 기술 스택을 확장 중.</td>
 </tr>
 </table>
 
@@ -111,7 +120,8 @@ const daniel = {
 
 | 프로젝트 | 역할 | 핵심 기술 |
 |---|---|---|
-| **탄소 배출 관리 SaaS** (Enterprise) | Lead Frontend Dev | React, TS, Vite, MUI v7, GraphQL, Apollo |
+| **탄소 배출 관리 SaaS** (Enterprise) | Lead Frontend Dev | React, TS, Vite, MUI v7, GraphQL, Apollo, Vitest |
+| **AI 보고서 생성 시스템** (LLM Pipeline) | Full-stack Dev | NestJS, vLLM/Gemma 4, Ollama Cloud, BullMQ, Redis, SSE |
 | **금융권 ESG 리포트 시스템** (WebView) | Frontend Dev | React, TS, D3.js, GraphQL |
 | **탄소 발자국 추적 플랫폼** (PWA) | Frontend Dev | React, TS, PWA, Firebase |
 | **글로벌 마케팅 랜딩 페이지** (Next.js) | Frontend Dev | Next.js, i18next (한/영/일) |
@@ -145,6 +155,9 @@ const daniel = {
 | 🚀 | 번들러 마이그레이션 | **Webpack→Vite** | 빌드/HMR 성능 대폭 개선 |
 | 🎨 | UI 프레임워크 업그레이드 | **MUI v5→v7** | Grid API, slotProps, 테마 재설계 |
 | 📦 | 날짜 라이브러리 경량화 | **moment→dayjs** | 번들 사이즈 감소 |
+| 🧪 | FE 테스트 환경 구축 | **30+ 단위 테스트** | Vitest + RTL + jsdom, 유틸 함수 커버리지 |
+| 🤖 | AI 보고서 생성 파이프라인 | **vLLM/Gemma 4** | Ollama Cloud 웹검색 + Tool Calling 파서 + HTML 템플릿 |
+| ⚙️ | 비동기 리포트 큐 + 실시간 알림 | **BullMQ + SSE** | ioredis 작업 큐 + NotificationHub 글로벌 알림 |
 
 </div>
 
