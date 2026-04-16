@@ -28,9 +28,18 @@ const daniel = {
         "Redis/BullMQ 리포트 큐 + SSE 실시간 글로벌 알림"
     ],
     currentlyLearning: ["NestJS", "LangChain", "LLM Tool Calling", "BullMQ"],
+    blog: "https://velog.io/@seunghyeond",
     funFact: "커피 한 잔과 함께하는 코딩이 최고의 생산성을 만듭니다 ☕"
 };
 ```
+
+<br/>
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [4년차 레거시 프로젝트에 Vitest 테스트 환경을 처음 도입한 이야기](https://velog.io/@seunghyeond/4%EB%85%84%EC%B0%A8-%EB%A0%88%EA%B1%B0%EC%8B%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-Vitest-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%99%98%EA%B2%BD%EC%9D%84-%EC%B2%98%EC%9D%8C-%EB%8F%84%EC%9E%85%ED%95%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0)
+<!-- BLOG-POST-LIST:END -->
 
 <br/>
 
@@ -169,6 +178,7 @@ const daniel = {
 
 [![Email](https://img.shields.io/badge/dww7541@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dww7541@gmail.com)
 [![GitHub](https://img.shields.io/badge/seunghyeonD-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seunghyeonD)
+[![Velog](https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@seunghyeond)
 
 </div>
 
