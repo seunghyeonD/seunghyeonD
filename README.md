@@ -25,7 +25,8 @@ const daniel = {
     recentWork: [
         "Vitest 테스트 환경 구축 (30+ 유틸 단위 테스트)",
         "AI 보고서 생성 파이프라인 (vLLM/Gemma 4 + Ollama Cloud)",
-        "Redis/BullMQ 리포트 큐 + SSE 실시간 글로벌 알림"
+        "Redis/BullMQ 리포트 큐 + SSE 실시간 글로벌 알림",
+        "vLLM 서빙 모니터링 인프라 (Prometheus + Grafana + LiteLLM + LangFuse)"
     ],
     currentlyLearning: ["NestJS", "LangChain", "LLM Tool Calling", "BullMQ"],
     blog: "https://velog.io/@seunghyeond",
@@ -77,6 +78,7 @@ const daniel = {
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![vLLM](https://img.shields.io/badge/vLLM_/_Gemma_4-FF6F61?style=for-the-badge&logo=google&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama_Cloud-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![LiteLLM](https://img.shields.io/badge/LiteLLM_Proxy-4B32C3?style=for-the-badge&logo=openai&logoColor=white)
 
 ### State & Data
 ![Apollo](https://img.shields.io/badge/Apollo_Client-311C87?style=for-the-badge&logo=apollographql&logoColor=white)
@@ -88,6 +90,11 @@ const daniel = {
 ![MUI](https://img.shields.io/badge/MUI_v7-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Monitoring & Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![LangFuse](https://img.shields.io/badge/LangFuse-000000?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)
 
 ### Infra & Tools
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
@@ -115,7 +122,7 @@ const daniel = {
 </tr>
 <tr>
 <td align="center"><b>역할</b></td>
-<td>탄소 배출 관리 SaaS 플랫폼의 프론트엔드 전반을 담당.<br/>입사 초기부터 아키텍처 설계에 참여하여 점진적으로 성장.<br/>번들러 교체(Webpack→Vite), MUI v5→v7 업그레이드, 날짜 라이브러리 경량화(moment.js→dayjs) 등 대규모 프론트엔드 업그레이드를 주도.<br/>최근에는 <b>Vitest 기반 FE 테스트 환경 구축</b>과 <b>vLLM/Gemma 4 기반 AI 보고서 생성 파이프라인</b>, <b>Redis/BullMQ 비동기 리포트 큐 + SSE 실시간 알림</b> 시스템을 구축하며 백엔드/AI 영역까지 기술 스택을 확장 중.</td>
+<td>탄소 배출 관리 SaaS 플랫폼의 프론트엔드 전반을 담당.<br/>입사 초기부터 아키텍처 설계에 참여하여 점진적으로 성장.<br/>번들러 교체(Webpack→Vite), MUI v5→v7 업그레이드, 날짜 라이브러리 경량화(moment.js→dayjs) 등 대규모 프론트엔드 업그레이드를 주도.<br/>최근에는 <b>Vitest 기반 FE 테스트 환경 구축</b>과 <b>vLLM/Gemma 4 기반 AI 보고서 생성 파이프라인</b>, <b>Redis/BullMQ 비동기 리포트 큐 + SSE 실시간 알림</b> 시스템을 구축.<br/><b>Prometheus + Grafana + LiteLLM + LangFuse</b>로 vLLM 서빙 모니터링 인프라를 Docker Compose 기반으로 직접 구축하며 백엔드/AI/인프라 영역까지 기술 스택을 확장 중.</td>
 </tr>
 </table>
 
@@ -131,6 +138,7 @@ const daniel = {
 |---|---|---|
 | **탄소 배출 관리 SaaS** (Enterprise) | Lead Frontend Dev | React, TS, Vite, MUI v7, GraphQL, Apollo, Vitest |
 | **AI 보고서 생성 시스템** (LLM Pipeline) | Full-stack Dev | NestJS, vLLM/Gemma 4, Ollama Cloud, BullMQ, Redis, SSE |
+| **vLLM 서빙 모니터링 인프라** (Observability) | Infra Dev | Prometheus, Grafana, LiteLLM Proxy, LangFuse, Docker Compose |
 | **금융권 ESG 리포트 시스템** (WebView) | Frontend Dev | React, TS, D3.js, GraphQL |
 | **탄소 발자국 추적 플랫폼** (PWA) | Frontend Dev | React, TS, PWA, Firebase |
 | **글로벌 마케팅 랜딩 페이지** (Next.js) | Frontend Dev | Next.js, i18next (한/영/일) |
@@ -167,6 +175,7 @@ const daniel = {
 | 🧪 | FE 테스트 환경 구축 | **30+ 단위 테스트** | Vitest + RTL + jsdom, 유틸 함수 커버리지 |
 | 🤖 | AI 보고서 생성 파이프라인 | **vLLM/Gemma 4** | Ollama Cloud 웹검색 + Tool Calling 파서 + HTML 템플릿 |
 | ⚙️ | 비동기 리포트 큐 + 실시간 알림 | **BullMQ + SSE** | ioredis 작업 큐 + NotificationHub 글로벌 알림 |
+| 📡 | vLLM 서빙 모니터링 인프라 구축 | **전체 Observability** | Prometheus + Grafana 메트릭, LiteLLM Proxy 로깅, LangFuse tool call 추적, Docker Compose 셀프호스팅 |
 
 </div>
 
