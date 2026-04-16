@@ -25,6 +25,7 @@ const daniel = {
     recentWork: [
         "Vitest 테스트 환경 구축 (30+ 유틸 단위 테스트)",
         "AI 보고서 생성 파이프라인 (vLLM/Gemma 4 + Ollama Cloud)",
+        "AI 보고서 품질 자동화 (티어 분류 + 프리페치 + 프롬프트 규칙)",
         "Redis/BullMQ 리포트 큐 + SSE 실시간 글로벌 알림",
         "vLLM 서빙 모니터링 인프라 (Prometheus + Grafana + LiteLLM + LangFuse)"
     ],
@@ -175,6 +176,7 @@ const daniel = {
 | 📦 | 날짜 라이브러리 경량화 | **moment→dayjs** | 번들 사이즈 감소 |
 | 🧪 | FE 테스트 환경 구축 | **30+ 단위 테스트** | Vitest + RTL + jsdom, 유틸 함수 커버리지 |
 | 🤖 | AI 보고서 생성 파이프라인 | **vLLM/Gemma 4** | Ollama Cloud 웹검색 + Tool Calling 파서 + HTML 템플릿 |
+| 🎯 | AI 보고서 품질 자동화 | **티어 기반 분량 제어** | 섹션 A/B/C 자동 분류, 데이터 참조 힌트, 웹검색 프리페치, 프롬프트 품질 규칙 |
 | ⚙️ | 비동기 리포트 큐 + 실시간 알림 | **BullMQ + SSE** | ioredis 작업 큐 + NotificationHub 글로벌 알림 |
 | 📡 | vLLM 서빙 모니터링 인프라 구축 | **전체 Observability** | Prometheus + Grafana 메트릭, LiteLLM Proxy 로깅, LangFuse tool call 추적, Docker Compose 셀프호스팅 |
 
