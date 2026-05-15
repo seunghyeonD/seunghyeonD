@@ -17,19 +17,14 @@ I work on report, dashboard, WebView, calculation, and validation-heavy UI for e
 ```ts
 const daniel = {
   role: "Frontend Engineer",
-  company: "Livit / Tansolution",
-  experience: "3+ years",
+  domain: "ESG / Carbon B2B SaaS",
+  stack: ["React", "TypeScript", "GraphQL", "Vite"],
   focus: [
-    "ESG/carbon-domain B2B SaaS",
     "Report and dashboard UI",
     "Calculation and validation flows",
     "AI report generation UX",
     "Frontend quality and migration"
-  ],
-  publicLinks: {
-    blog: "https://velog.io/@seunghyeond",
-    linkedin: "https://www.linkedin.com/in/seunghyeon-dong/"
-  }
+  ]
 };
 ```
 
