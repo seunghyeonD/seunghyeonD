@@ -111,7 +111,6 @@ Tansolution is a B2B SaaS product for carbon emissions management, ESG reporting
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![BullMQ](https://img.shields.io/badge/BullMQ-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
@@ -126,22 +125,6 @@ Tansolution is a B2B SaaS product for carbon emissions management, ESG reporting
 - [프론트엔드 개발자가 vLLM/Gemma 4로 AI 보고서 생성 파이프라인을 만든 이야기](https://velog.io/@seunghyeond/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-vLLMGemma-4%EB%A1%9C-AI-%EB%B3%B4%EA%B3%A0%EC%84%9C-%EC%83%9D%EC%84%B1-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8%EC%9D%84-%EB%A7%8C%EB%93%A0-%EC%9D%B4%EC%95%BC%EA%B8%B0)
 - [레거시 프로젝트에 Vitest 테스트 환경을 처음 도입한 이야기](https://velog.io/@seunghyeond/4%EB%85%84%EC%B0%A8-%EB%A0%88%EA%B1%B0%EC%8B%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-Vitest-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%99%98%EA%B2%BD%EC%9D%84-%EC%B2%98%EC%9D%8C-%EB%8F%84%EC%9E%85%ED%95%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0)
 <!-- BLOG-POST-LIST:END -->
-
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=seunghyeonD&show_icons=true&theme=default&bg_color=fafaf8&title_color=1a3a4a&icon_color=2a5a6a&text_color=2d2d2d&border_color=e2e2de&hide_border=false&count_private=true" />
-&nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seunghyeonD&layout=compact&theme=default&bg_color=fafaf8&title_color=1a3a4a&text_color=2d2d2d&border_color=e2e2de&hide_border=false&langs_count=8" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=seunghyeonD&background=fafaf8&ring=1a3a4a&fire=e8734a&currStreakLabel=1a3a4a&sideLabels=1a3a4a&currStreakNum=2d2d2d&sideNums=2d2d2d&dates=888888&border=e2e2de" />
-
-</div>
 
 <br/>
 
